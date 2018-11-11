@@ -1,0 +1,14 @@
+[package]
+name = "spider_rust"
+version = "0.0.1"
+authors = ["zhangjunfang <zhangjunfang0505@163.com>"]
+description = "灵感来自Scrapy"
+license = "MIT"
+documentation = ""
+homepage = "https://github.com/zhangjunfang/spider_rust"
+repository = "https://github.com/zhangjunfang/spider_rust"
+
+
+[dependencies]
+hyper = "*"
+url = "*"
